@@ -1,6 +1,8 @@
 **/*.min.js
 **/dist/
 **/vendor/
-/_gh_pages/
+/_site/
 /js/coverage/
-/package.js
+/js/tests/integration/
+/site/static/sw.js
+/site/layouts/
